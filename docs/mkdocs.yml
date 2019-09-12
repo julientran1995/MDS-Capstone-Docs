@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Julien MDS Capstone Documentation
+theme: windmill
+nav:
+  - Home: index.md
+  - Single Sign On Data: ssodata.md
+  - Wireless Location Data: wldata.md
+  - Import: dataread.md
+  - Sampling: datasample.md
